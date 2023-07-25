@@ -52,7 +52,7 @@ https://blog.naver.com/gngh0101/221691289433
 -> scoped-proxy, Object-Provider
 
 
-## MVC
+## MVC 공부
 
 ### @EnableWebMvc, AutoConfiguration 원리
 
