@@ -5,7 +5,7 @@
 study
 
 너무 많은 내용이라, 블로그에 정리함
-공부할거 정리, 추가 정리
+
 
 ## ApplicationContext
 
@@ -52,7 +52,7 @@ https://blog.naver.com/gngh0101/221691289433
 -> scoped-proxy, Object-Provider
 
 
-## MVC 공부
+## MVC
 
 ### @EnableWebMvc, AutoConfiguration 원리
 
