@@ -27,6 +27,11 @@ https://blog.naver.com/gngh0101/221690000028
 ### InitializeBean (@PostConstruct / InitializingBean / CustomInitMethod ... )동작 원리와 순서 
 https://blog.naver.com/gngh0101/221691289433
 
+### Event Publisher 동작 원리 
+https://blog.naver.com/gngh0101/222020512119
+
+### EventListener Bean 등록 과정
+https://blog.naver.com/gngh0101/222022197174
 
 ### ClassPathXmlApplicationContext
 
@@ -124,4 +129,8 @@ Spring Expression Language의 줄인 말로 런타임 시점에 object graph 를
 - object graph : 객체들의 연관 관계, 정보를 보여주는 그래프
 
 
+## 기타 
 
+### Optimizing Spring Integration Tests
+
+https://www.baeldung.com/spring-tests
