@@ -27,11 +27,19 @@ https://blog.naver.com/gngh0101/221690000028
 ### InitializeBean (@PostConstruct / InitializingBean / CustomInitMethod ... )동작 원리와 순서 
 https://blog.naver.com/gngh0101/221691289433
 
+### FactoryBean 동작 원리
+
+https://blog.naver.com/gngh0101/222027480358
+
 ### Event Publisher 동작 원리 
 https://blog.naver.com/gngh0101/222020512119
 
 ### EventListener Bean 등록 과정
 https://blog.naver.com/gngh0101/222022197174
+
+### EventListener Event dispatch 동작 원리 
+
+https://blog.naver.com/gngh0101/222040857815
 
 ### ClassPathXmlApplicationContext
 
@@ -131,6 +139,13 @@ Spring Expression Language의 줄인 말로 런타임 시점에 object graph 를
 
 ## 기타 
 
+### Stater 
+
+https://www.baeldung.com/spring-boot-custom-starter
+
 ### Optimizing Spring Integration Tests
 
 https://www.baeldung.com/spring-tests
+
+
+
