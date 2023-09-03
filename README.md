@@ -41,6 +41,10 @@ https://blog.naver.com/gngh0101/222022197174
 
 https://blog.naver.com/gngh0101/222040857815
 
+### Event Custom ApplicationEventMulticaster
+
+https://blog.naver.com/gngh0101/222047805469
+
 ### ClassPathXmlApplicationContext
 
 - 고전적인 xml를 이용한 빈 설정 방법
@@ -145,11 +149,22 @@ https://blog.naver.com/gngh0101/222044744634
 - reference 
 https://www.baeldung.com/spring-boot-custom-starter
 
+
+## Profile 
+
+2.4.0 이후부터 spring.profiles 이 아닌 spring.config.activate.on-profile 사용함 
+
+- 2.4.0 Migration Guide : https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Config-Data-Migration-Guide
+
+
 ## 기타 
+
+
+### Enable Async 동작 원리 
+https://blog.naver.com/gngh0101/222073112894
 
 ### Optimizing Spring Integration Tests
 
 https://www.baeldung.com/spring-tests
-
 
 
